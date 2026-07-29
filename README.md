@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0016-3sum-closest](https://github.com/ankitRaj10022/DSA/tree/master/0016-3sum-closest) |
+| [0035-search-insert-position](https://github.com/ankitRaj10022/DSA/tree/master/0035-search-insert-position) |
 ## Two Pointers
 |  |
 | ------- |
@@ -58,4 +59,8 @@
 |  |
 | ------- |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/ankitRaj10022/DSA/tree/master/3518-smallest-palindromic-rearrangement-ii) |
+## Binary Search
+|  |
+| ------- |
+| [0035-search-insert-position](https://github.com/ankitRaj10022/DSA/tree/master/0035-search-insert-position) |
 <!---LeetCode Topics End-->
