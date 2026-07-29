@@ -7,6 +7,7 @@
 | [0016-3sum-closest](https://github.com/ankitRaj10022/DSA/tree/master/0016-3sum-closest) |
 | [0035-search-insert-position](https://github.com/ankitRaj10022/DSA/tree/master/0035-search-insert-position) |
 | [0066-plus-one](https://github.com/ankitRaj10022/DSA/tree/master/0066-plus-one) |
+| [0118-pascals-triangle](https://github.com/ankitRaj10022/DSA/tree/master/0118-pascals-triangle) |
 ## Two Pointers
 |  |
 | ------- |
@@ -65,4 +66,8 @@
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/ankitRaj10022/DSA/tree/master/0035-search-insert-position) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0118-pascals-triangle](https://github.com/ankitRaj10022/DSA/tree/master/0118-pascals-triangle) |
 <!---LeetCode Topics End-->
