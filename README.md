@@ -8,6 +8,7 @@
 | [0035-search-insert-position](https://github.com/ankitRaj10022/DSA/tree/master/0035-search-insert-position) |
 | [0066-plus-one](https://github.com/ankitRaj10022/DSA/tree/master/0066-plus-one) |
 | [0118-pascals-triangle](https://github.com/ankitRaj10022/DSA/tree/master/0118-pascals-triangle) |
+| [0119-pascals-triangle-ii](https://github.com/ankitRaj10022/DSA/tree/master/0119-pascals-triangle-ii) |
 ## Two Pointers
 |  |
 | ------- |
@@ -70,4 +71,5 @@
 |  |
 | ------- |
 | [0118-pascals-triangle](https://github.com/ankitRaj10022/DSA/tree/master/0118-pascals-triangle) |
+| [0119-pascals-triangle-ii](https://github.com/ankitRaj10022/DSA/tree/master/0119-pascals-triangle-ii) |
 <!---LeetCode Topics End-->
