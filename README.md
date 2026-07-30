@@ -9,6 +9,7 @@
 | [0066-plus-one](https://github.com/ankitRaj10022/DSA/tree/master/0066-plus-one) |
 | [0118-pascals-triangle](https://github.com/ankitRaj10022/DSA/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/ankitRaj10022/DSA/tree/master/0119-pascals-triangle-ii) |
+| [0169-majority-element](https://github.com/ankitRaj10022/DSA/tree/master/0169-majority-element) |
 ## Two Pointers
 |  |
 | ------- |
@@ -18,10 +19,12 @@
 |  |
 | ------- |
 | [0016-3sum-closest](https://github.com/ankitRaj10022/DSA/tree/master/0016-3sum-closest) |
+| [0169-majority-element](https://github.com/ankitRaj10022/DSA/tree/master/0169-majority-element) |
 ## Hash Table
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/ankitRaj10022/DSA/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0169-majority-element](https://github.com/ankitRaj10022/DSA/tree/master/0169-majority-element) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/ankitRaj10022/DSA/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 ## String
 |  |
@@ -62,6 +65,7 @@
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/ankitRaj10022/DSA/tree/master/0169-majority-element) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/ankitRaj10022/DSA/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 ## Binary Search
 |  |
@@ -72,4 +76,8 @@
 | ------- |
 | [0118-pascals-triangle](https://github.com/ankitRaj10022/DSA/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/ankitRaj10022/DSA/tree/master/0119-pascals-triangle-ii) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/ankitRaj10022/DSA/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
