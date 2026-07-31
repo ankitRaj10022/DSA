@@ -34,6 +34,7 @@
 | [0017-letter-combinations-of-a-phone-number](https://github.com/ankitRaj10022/DSA/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0020-valid-parentheses](https://github.com/ankitRaj10022/DSA/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/ankitRaj10022/DSA/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/ankitRaj10022/DSA/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/ankitRaj10022/DSA/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/ankitRaj10022/DSA/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 ## Backtracking
@@ -44,6 +45,7 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/ankitRaj10022/DSA/tree/master/0020-valid-parentheses) |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/ankitRaj10022/DSA/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 ## Linked List
 |  |
 | ------- |
@@ -87,5 +89,10 @@
 ## Greedy
 |  |
 | ------- |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/ankitRaj10022/DSA/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/ankitRaj10022/DSA/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
+## Monotonic Stack
+|  |
+| ------- |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/ankitRaj10022/DSA/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 <!---LeetCode Topics End-->
