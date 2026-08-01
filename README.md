@@ -37,6 +37,7 @@
 | [0017-letter-combinations-of-a-phone-number](https://github.com/ankitRaj10022/DSA/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0020-valid-parentheses](https://github.com/ankitRaj10022/DSA/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/ankitRaj10022/DSA/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0058-length-of-last-word](https://github.com/ankitRaj10022/DSA/tree/master/0058-length-of-last-word) |
 | [0316-remove-duplicate-letters](https://github.com/ankitRaj10022/DSA/tree/master/0316-remove-duplicate-letters) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/ankitRaj10022/DSA/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/ankitRaj10022/DSA/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
