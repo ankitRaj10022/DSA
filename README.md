@@ -10,6 +10,7 @@
 | [0118-pascals-triangle](https://github.com/ankitRaj10022/DSA/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/ankitRaj10022/DSA/tree/master/0119-pascals-triangle-ii) |
 | [0169-majority-element](https://github.com/ankitRaj10022/DSA/tree/master/0169-majority-element) |
+| [0486-predict-the-winner](https://github.com/ankitRaj10022/DSA/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/ankitRaj10022/DSA/tree/master/0628-maximum-product-of-three-numbers) |
 ## Two Pointers
 |  |
@@ -58,6 +59,7 @@
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/ankitRaj10022/DSA/tree/master/0021-merge-two-sorted-lists) |
+| [0486-predict-the-winner](https://github.com/ankitRaj10022/DSA/tree/master/0486-predict-the-winner) |
 ## String Matching
 |  |
 | ------- |
@@ -66,6 +68,7 @@
 |  |
 | ------- |
 | [0066-plus-one](https://github.com/ankitRaj10022/DSA/tree/master/0066-plus-one) |
+| [0486-predict-the-winner](https://github.com/ankitRaj10022/DSA/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/ankitRaj10022/DSA/tree/master/0628-maximum-product-of-three-numbers) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/ankitRaj10022/DSA/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 ## Combinatorics
@@ -87,6 +90,7 @@
 | ------- |
 | [0118-pascals-triangle](https://github.com/ankitRaj10022/DSA/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/ankitRaj10022/DSA/tree/master/0119-pascals-triangle-ii) |
+| [0486-predict-the-winner](https://github.com/ankitRaj10022/DSA/tree/master/0486-predict-the-winner) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -102,4 +106,8 @@
 | ------- |
 | [0316-remove-duplicate-letters](https://github.com/ankitRaj10022/DSA/tree/master/0316-remove-duplicate-letters) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/ankitRaj10022/DSA/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+## Game Theory
+|  |
+| ------- |
+| [0486-predict-the-winner](https://github.com/ankitRaj10022/DSA/tree/master/0486-predict-the-winner) |
 <!---LeetCode Topics End-->
