@@ -14,6 +14,7 @@
 | [0486-predict-the-winner](https://github.com/ankitRaj10022/DSA/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/ankitRaj10022/DSA/tree/master/0628-maximum-product-of-three-numbers) |
 | [0877-stone-game](https://github.com/ankitRaj10022/DSA/tree/master/0877-stone-game) |
+| [1406-stone-game-iii](https://github.com/ankitRaj10022/DSA/tree/master/1406-stone-game-iii) |
 ## Two Pointers
 |  |
 | ------- |
@@ -75,6 +76,7 @@
 | [0486-predict-the-winner](https://github.com/ankitRaj10022/DSA/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/ankitRaj10022/DSA/tree/master/0628-maximum-product-of-three-numbers) |
 | [0877-stone-game](https://github.com/ankitRaj10022/DSA/tree/master/0877-stone-game) |
+| [1406-stone-game-iii](https://github.com/ankitRaj10022/DSA/tree/master/1406-stone-game-iii) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/ankitRaj10022/DSA/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 ## Combinatorics
 |  |
@@ -97,6 +99,7 @@
 | [0119-pascals-triangle-ii](https://github.com/ankitRaj10022/DSA/tree/master/0119-pascals-triangle-ii) |
 | [0486-predict-the-winner](https://github.com/ankitRaj10022/DSA/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/ankitRaj10022/DSA/tree/master/0877-stone-game) |
+| [1406-stone-game-iii](https://github.com/ankitRaj10022/DSA/tree/master/1406-stone-game-iii) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -117,4 +120,13 @@
 | ------- |
 | [0486-predict-the-winner](https://github.com/ankitRaj10022/DSA/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/ankitRaj10022/DSA/tree/master/0877-stone-game) |
+| [1406-stone-game-iii](https://github.com/ankitRaj10022/DSA/tree/master/1406-stone-game-iii) |
+## Minimax
+|  |
+| ------- |
+| [1406-stone-game-iii](https://github.com/ankitRaj10022/DSA/tree/master/1406-stone-game-iii) |
+## Zero-Sum Game
+|  |
+| ------- |
+| [1406-stone-game-iii](https://github.com/ankitRaj10022/DSA/tree/master/1406-stone-game-iii) |
 <!---LeetCode Topics End-->
