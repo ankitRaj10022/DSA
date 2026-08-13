@@ -137,4 +137,8 @@
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/ankitRaj10022/DSA/tree/master/0238-product-of-array-except-self) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/ankitRaj10022/DSA/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
