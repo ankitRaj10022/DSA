@@ -12,6 +12,7 @@
 | [0118-pascals-triangle](https://github.com/ankitRaj10022/DSA/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/ankitRaj10022/DSA/tree/master/0119-pascals-triangle-ii) |
 | [0169-majority-element](https://github.com/ankitRaj10022/DSA/tree/master/0169-majority-element) |
+| [0238-product-of-array-except-self](https://github.com/ankitRaj10022/DSA/tree/master/0238-product-of-array-except-self) |
 | [0486-predict-the-winner](https://github.com/ankitRaj10022/DSA/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/ankitRaj10022/DSA/tree/master/0628-maximum-product-of-three-numbers) |
 | [0877-stone-game](https://github.com/ankitRaj10022/DSA/tree/master/0877-stone-game) |
@@ -132,4 +133,8 @@
 |  |
 | ------- |
 | [1406-stone-game-iii](https://github.com/ankitRaj10022/DSA/tree/master/1406-stone-game-iii) |
+## Prefix Sum
+|  |
+| ------- |
+| [0238-product-of-array-except-self](https://github.com/ankitRaj10022/DSA/tree/master/0238-product-of-array-except-self) |
 <!---LeetCode Topics End-->
