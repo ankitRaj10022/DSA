@@ -13,6 +13,7 @@
 | [0119-pascals-triangle-ii](https://github.com/ankitRaj10022/DSA/tree/master/0119-pascals-triangle-ii) |
 | [0169-majority-element](https://github.com/ankitRaj10022/DSA/tree/master/0169-majority-element) |
 | [0238-product-of-array-except-self](https://github.com/ankitRaj10022/DSA/tree/master/0238-product-of-array-except-self) |
+| [0260-single-number-iii](https://github.com/ankitRaj10022/DSA/tree/master/0260-single-number-iii) |
 | [0486-predict-the-winner](https://github.com/ankitRaj10022/DSA/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/ankitRaj10022/DSA/tree/master/0628-maximum-product-of-three-numbers) |
 | [0877-stone-game](https://github.com/ankitRaj10022/DSA/tree/master/0877-stone-game) |
@@ -141,4 +142,8 @@
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/ankitRaj10022/DSA/tree/master/0169-majority-element) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0260-single-number-iii](https://github.com/ankitRaj10022/DSA/tree/master/0260-single-number-iii) |
 <!---LeetCode Topics End-->
