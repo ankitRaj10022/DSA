@@ -24,6 +24,7 @@
 | [0877-stone-game](https://github.com/ankitRaj10022/DSA/tree/master/0877-stone-game) |
 | [1386-cinema-seat-allocation](https://github.com/ankitRaj10022/DSA/tree/master/1386-cinema-seat-allocation) |
 | [1406-stone-game-iii](https://github.com/ankitRaj10022/DSA/tree/master/1406-stone-game-iii) |
+| [2965-find-missing-and-repeated-values](https://github.com/ankitRaj10022/DSA/tree/master/2965-find-missing-and-repeated-values) |
 ## Two Pointers
 |  |
 | ------- |
@@ -50,6 +51,7 @@
 | [0073-set-matrix-zeroes](https://github.com/ankitRaj10022/DSA/tree/master/0073-set-matrix-zeroes) |
 | [0169-majority-element](https://github.com/ankitRaj10022/DSA/tree/master/0169-majority-element) |
 | [1386-cinema-seat-allocation](https://github.com/ankitRaj10022/DSA/tree/master/1386-cinema-seat-allocation) |
+| [2965-find-missing-and-repeated-values](https://github.com/ankitRaj10022/DSA/tree/master/2965-find-missing-and-repeated-values) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/ankitRaj10022/DSA/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/ankitRaj10022/DSA/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 ## String
@@ -95,6 +97,7 @@
 | [0628-maximum-product-of-three-numbers](https://github.com/ankitRaj10022/DSA/tree/master/0628-maximum-product-of-three-numbers) |
 | [0877-stone-game](https://github.com/ankitRaj10022/DSA/tree/master/0877-stone-game) |
 | [1406-stone-game-iii](https://github.com/ankitRaj10022/DSA/tree/master/1406-stone-game-iii) |
+| [2965-find-missing-and-repeated-values](https://github.com/ankitRaj10022/DSA/tree/master/2965-find-missing-and-repeated-values) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/ankitRaj10022/DSA/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 ## Combinatorics
 |  |
@@ -170,6 +173,7 @@
 | [0073-set-matrix-zeroes](https://github.com/ankitRaj10022/DSA/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/ankitRaj10022/DSA/tree/master/0074-search-a-2d-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/ankitRaj10022/DSA/tree/master/0240-search-a-2d-matrix-ii) |
+| [2965-find-missing-and-repeated-values](https://github.com/ankitRaj10022/DSA/tree/master/2965-find-missing-and-repeated-values) |
 ## Sliding Window
 |  |
 | ------- |
