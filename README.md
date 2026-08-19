@@ -12,6 +12,7 @@
 | [0066-plus-one](https://github.com/ankitRaj10022/DSA/tree/master/0066-plus-one) |
 | [0073-set-matrix-zeroes](https://github.com/ankitRaj10022/DSA/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/ankitRaj10022/DSA/tree/master/0074-search-a-2d-matrix) |
+| [0075-sort-colors](https://github.com/ankitRaj10022/DSA/tree/master/0075-sort-colors) |
 | [0118-pascals-triangle](https://github.com/ankitRaj10022/DSA/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/ankitRaj10022/DSA/tree/master/0119-pascals-triangle-ii) |
 | [0169-majority-element](https://github.com/ankitRaj10022/DSA/tree/master/0169-majority-element) |
@@ -30,11 +31,13 @@
 | [0018-4sum](https://github.com/ankitRaj10022/DSA/tree/master/0018-4sum) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/ankitRaj10022/DSA/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0031-next-permutation](https://github.com/ankitRaj10022/DSA/tree/master/0031-next-permutation) |
+| [0075-sort-colors](https://github.com/ankitRaj10022/DSA/tree/master/0075-sort-colors) |
 ## Sorting
 |  |
 | ------- |
 | [0016-3sum-closest](https://github.com/ankitRaj10022/DSA/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/ankitRaj10022/DSA/tree/master/0018-4sum) |
+| [0075-sort-colors](https://github.com/ankitRaj10022/DSA/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/ankitRaj10022/DSA/tree/master/0169-majority-element) |
 | [0628-maximum-product-of-three-numbers](https://github.com/ankitRaj10022/DSA/tree/master/0628-maximum-product-of-three-numbers) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/ankitRaj10022/DSA/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -171,4 +174,12 @@
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/ankitRaj10022/DSA/tree/master/0003-longest-substring-without-repeating-characters) |
+## Quicksort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/ankitRaj10022/DSA/tree/master/0075-sort-colors) |
+## Bubble Sort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/ankitRaj10022/DSA/tree/master/0075-sort-colors) |
 <!---LeetCode Topics End-->
