@@ -19,6 +19,7 @@
 | [0486-predict-the-winner](https://github.com/ankitRaj10022/DSA/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/ankitRaj10022/DSA/tree/master/0628-maximum-product-of-three-numbers) |
 | [0877-stone-game](https://github.com/ankitRaj10022/DSA/tree/master/0877-stone-game) |
+| [1386-cinema-seat-allocation](https://github.com/ankitRaj10022/DSA/tree/master/1386-cinema-seat-allocation) |
 | [1406-stone-game-iii](https://github.com/ankitRaj10022/DSA/tree/master/1406-stone-game-iii) |
 ## Two Pointers
 |  |
@@ -43,6 +44,7 @@
 | [0017-letter-combinations-of-a-phone-number](https://github.com/ankitRaj10022/DSA/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0073-set-matrix-zeroes](https://github.com/ankitRaj10022/DSA/tree/master/0073-set-matrix-zeroes) |
 | [0169-majority-element](https://github.com/ankitRaj10022/DSA/tree/master/0169-majority-element) |
+| [1386-cinema-seat-allocation](https://github.com/ankitRaj10022/DSA/tree/master/1386-cinema-seat-allocation) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/ankitRaj10022/DSA/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/ankitRaj10022/DSA/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 ## String
@@ -120,6 +122,7 @@
 | ------- |
 | [0316-remove-duplicate-letters](https://github.com/ankitRaj10022/DSA/tree/master/0316-remove-duplicate-letters) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/ankitRaj10022/DSA/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+| [1386-cinema-seat-allocation](https://github.com/ankitRaj10022/DSA/tree/master/1386-cinema-seat-allocation) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/ankitRaj10022/DSA/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 ## Monotonic Stack
 |  |
@@ -152,6 +155,7 @@
 |  |
 | ------- |
 | [0260-single-number-iii](https://github.com/ankitRaj10022/DSA/tree/master/0260-single-number-iii) |
+| [1386-cinema-seat-allocation](https://github.com/ankitRaj10022/DSA/tree/master/1386-cinema-seat-allocation) |
 ## Matrix
 |  |
 | ------- |
