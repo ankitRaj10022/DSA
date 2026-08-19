@@ -1,7 +1,7 @@
 class Solution:
     def duplicateNumbersXOR(self, nums: List[int]) -> int:
-        seen, res = set(), 0
-        for num in nums:
-            if num in seen: res^=num
-            else: seen.add(num)
+        res=0
+        if len(nums) == len(set(nums)): return 0
+        for num in set(nums):
+            if nums.count(num)==2: res^=num
         return res
