@@ -15,6 +15,7 @@
 | [0075-sort-colors](https://github.com/ankitRaj10022/DSA/tree/master/0075-sort-colors) |
 | [0118-pascals-triangle](https://github.com/ankitRaj10022/DSA/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/ankitRaj10022/DSA/tree/master/0119-pascals-triangle-ii) |
+| [0137-single-number-ii](https://github.com/ankitRaj10022/DSA/tree/master/0137-single-number-ii) |
 | [0169-majority-element](https://github.com/ankitRaj10022/DSA/tree/master/0169-majority-element) |
 | [0238-product-of-array-except-self](https://github.com/ankitRaj10022/DSA/tree/master/0238-product-of-array-except-self) |
 | [0240-search-a-2d-matrix-ii](https://github.com/ankitRaj10022/DSA/tree/master/0240-search-a-2d-matrix-ii) |
@@ -165,6 +166,7 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [0137-single-number-ii](https://github.com/ankitRaj10022/DSA/tree/master/0137-single-number-ii) |
 | [0260-single-number-iii](https://github.com/ankitRaj10022/DSA/tree/master/0260-single-number-iii) |
 | [1386-cinema-seat-allocation](https://github.com/ankitRaj10022/DSA/tree/master/1386-cinema-seat-allocation) |
 ## Matrix
