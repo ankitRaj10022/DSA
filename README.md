@@ -7,6 +7,7 @@
 | [0001-two-sum](https://github.com/ankitRaj10022/DSA/tree/master/0001-two-sum) |
 | [0016-3sum-closest](https://github.com/ankitRaj10022/DSA/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/ankitRaj10022/DSA/tree/master/0018-4sum) |
+| [0031-next-permutation](https://github.com/ankitRaj10022/DSA/tree/master/0031-next-permutation) |
 | [0035-search-insert-position](https://github.com/ankitRaj10022/DSA/tree/master/0035-search-insert-position) |
 | [0066-plus-one](https://github.com/ankitRaj10022/DSA/tree/master/0066-plus-one) |
 | [0073-set-matrix-zeroes](https://github.com/ankitRaj10022/DSA/tree/master/0073-set-matrix-zeroes) |
@@ -25,6 +26,7 @@
 | [0016-3sum-closest](https://github.com/ankitRaj10022/DSA/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/ankitRaj10022/DSA/tree/master/0018-4sum) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/ankitRaj10022/DSA/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0031-next-permutation](https://github.com/ankitRaj10022/DSA/tree/master/0031-next-permutation) |
 ## Sorting
 |  |
 | ------- |
