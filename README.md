@@ -26,6 +26,7 @@
 | [1386-cinema-seat-allocation](https://github.com/ankitRaj10022/DSA/tree/master/1386-cinema-seat-allocation) |
 | [1406-stone-game-iii](https://github.com/ankitRaj10022/DSA/tree/master/1406-stone-game-iii) |
 | [2965-find-missing-and-repeated-values](https://github.com/ankitRaj10022/DSA/tree/master/2965-find-missing-and-repeated-values) |
+| [3158-find-the-xor-of-numbers-which-appear-twice](https://github.com/ankitRaj10022/DSA/tree/master/3158-find-the-xor-of-numbers-which-appear-twice) |
 ## Two Pointers
 |  |
 | ------- |
@@ -54,6 +55,7 @@
 | [1386-cinema-seat-allocation](https://github.com/ankitRaj10022/DSA/tree/master/1386-cinema-seat-allocation) |
 | [2965-find-missing-and-repeated-values](https://github.com/ankitRaj10022/DSA/tree/master/2965-find-missing-and-repeated-values) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/ankitRaj10022/DSA/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
+| [3158-find-the-xor-of-numbers-which-appear-twice](https://github.com/ankitRaj10022/DSA/tree/master/3158-find-the-xor-of-numbers-which-appear-twice) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/ankitRaj10022/DSA/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 ## String
 |  |
@@ -169,6 +171,7 @@
 | [0137-single-number-ii](https://github.com/ankitRaj10022/DSA/tree/master/0137-single-number-ii) |
 | [0260-single-number-iii](https://github.com/ankitRaj10022/DSA/tree/master/0260-single-number-iii) |
 | [1386-cinema-seat-allocation](https://github.com/ankitRaj10022/DSA/tree/master/1386-cinema-seat-allocation) |
+| [3158-find-the-xor-of-numbers-which-appear-twice](https://github.com/ankitRaj10022/DSA/tree/master/3158-find-the-xor-of-numbers-which-appear-twice) |
 ## Matrix
 |  |
 | ------- |
