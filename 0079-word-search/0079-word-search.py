@@ -1,5 +1,7 @@
 class Solution:
     def exist(self, board: List[List[str]], word: str) -> bool:
+
+        '''
         m, n, sizeW = len(board), len(board[0]), len(word)
         visited = [[False] * n for _ in range(m)]
         directions = [(-1, 0), (1, 0), (0, -1), (0, 1)]
@@ -25,5 +27,31 @@ class Solution:
                 if board[i][j] == word[0]:
                     if helper(i, j, 1): return True
 
+
+        return False
+        '''
+
+
+        n, m, size = len(board), len(board[0]), len(word)
+        directions = [(-1,0), (1,0), (0,-1), (0,1)]
+
+        def helper(row, col, index):
+            if index == size: return True
+            ch = board[row][col]
+            board[row][col]='#'
+
+            for dRow, dCol in directions:
+                uRow, uCol = row+dRow, col+dCol
+                if 0<=uRow<n and 0<=uCol<m:
+                    if board[uRow][uCol] == word[index]:
+                        if helper(uRow, uCol, index+1): return True
+
+            board[row][col] = ch
+            return False
+
+        for i in range(n):
+            for j in range(m):
+                if board[i][j] == word[0]:
+                    if helper(i, j, 1): return True
 
         return False
