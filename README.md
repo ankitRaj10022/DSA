@@ -13,6 +13,7 @@
 | [0073-set-matrix-zeroes](https://github.com/ankitRaj10022/DSA/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/ankitRaj10022/DSA/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/ankitRaj10022/DSA/tree/master/0075-sort-colors) |
+| [0079-word-search](https://github.com/ankitRaj10022/DSA/tree/master/0079-word-search) |
 | [0118-pascals-triangle](https://github.com/ankitRaj10022/DSA/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/ankitRaj10022/DSA/tree/master/0119-pascals-triangle-ii) |
 | [0137-single-number-ii](https://github.com/ankitRaj10022/DSA/tree/master/0137-single-number-ii) |
@@ -65,6 +66,7 @@
 | [0020-valid-parentheses](https://github.com/ankitRaj10022/DSA/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/ankitRaj10022/DSA/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0058-length-of-last-word](https://github.com/ankitRaj10022/DSA/tree/master/0058-length-of-last-word) |
+| [0079-word-search](https://github.com/ankitRaj10022/DSA/tree/master/0079-word-search) |
 | [0316-remove-duplicate-letters](https://github.com/ankitRaj10022/DSA/tree/master/0316-remove-duplicate-letters) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/ankitRaj10022/DSA/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/ankitRaj10022/DSA/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -73,6 +75,7 @@
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/ankitRaj10022/DSA/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0079-word-search](https://github.com/ankitRaj10022/DSA/tree/master/0079-word-search) |
 ## Stack
 |  |
 | ------- |
@@ -177,6 +180,7 @@
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/ankitRaj10022/DSA/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/ankitRaj10022/DSA/tree/master/0074-search-a-2d-matrix) |
+| [0079-word-search](https://github.com/ankitRaj10022/DSA/tree/master/0079-word-search) |
 | [0240-search-a-2d-matrix-ii](https://github.com/ankitRaj10022/DSA/tree/master/0240-search-a-2d-matrix-ii) |
 | [2965-find-missing-and-repeated-values](https://github.com/ankitRaj10022/DSA/tree/master/2965-find-missing-and-repeated-values) |
 ## Sliding Window
@@ -191,4 +195,8 @@
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/ankitRaj10022/DSA/tree/master/0075-sort-colors) |
+## Depth-First Search
+|  |
+| ------- |
+| [0079-word-search](https://github.com/ankitRaj10022/DSA/tree/master/0079-word-search) |
 <!---LeetCode Topics End-->
